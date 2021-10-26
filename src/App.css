@@ -1,0 +1,150 @@
+.App {
+
+  background-color: white;
+}
+
+
+
+
+.photo{
+  border-radius: 256px;
+  width: 256px;
+  height: 256px;
+
+  margin: auto;
+  margin-top: 10px;
+}
+
+.logoE{
+  height: 256px;
+  width: 300px;
+}
+
+.profil{
+  text-align: center;
+}
+
+.Projet{
+  display: flex;
+  justify-content:  space-evenly;
+  flex-direction: row;
+  margin: auto;
+}
+
+.container{
+  border: 4px double rgba(28,110,164,0.4);
+  height: 500px;
+  width: 350px;
+  background-color: #EEF9FF;
+  text-align: center;
+}
+
+hr{
+  width: 50%;
+  height: 3px;
+  background-color: whitesmoke;
+}
+
+.vid{
+  width: 90%;
+  height: 40%;
+  border: 2px solid black;
+  background-color: whitesmoke;
+}
+
+li{
+  text-decoration: none;
+}
+
+.btn{
+  background-color: whitesmoke;
+  border: solid 2px black;
+  width: 60%;
+  height: 30px;
+  border-radius: 10%;
+}
+
+
+.foot{
+  text-align: center;
+  height: 20vh;
+  width: 100%;
+  background-color: #3E6AF3;
+  margin-top:40px ;
+}
+
+.contact{
+  font-size: medium;
+  display: flex;
+  flex-direction: row ;
+  justify-content: space-around ;
+  color: white;
+  margin: 0;
+  
+}
+
+
+
+
+a{
+  text-decoration: none;
+}
+
+.icon{
+
+  margin-top: 15px;
+  width: 70px;
+
+}
+
+
+
+
+
+@media (max-width: 480px) {
+  .Projet{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+  }
+
+
+  .container{
+    height: 500px;
+    width: 350px;
+    background-color: #EEF9FF;
+    text-align: center;
+  }
+}
+
+
+
+@media (max-width: 768px){
+  .Projet{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    flex-flow: wrap;
+
+  }
+
+}
+
+
+
+
+@media (max-width: 1280px){
+  .Projet{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin: auto;
+
+  }
+
+}
