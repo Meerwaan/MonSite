@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Meerwaan/MonSite/static/css/main.0bbee7a6.chunk.css",
+    "main.js": "/Meerwaan/MonSite/static/js/main.dd7c3d62.chunk.js",
+    "main.js.map": "/Meerwaan/MonSite/static/js/main.dd7c3d62.chunk.js.map",
+    "runtime-main.js": "/Meerwaan/MonSite/static/js/runtime-main.ff8a6d17.js",
+    "runtime-main.js.map": "/Meerwaan/MonSite/static/js/runtime-main.ff8a6d17.js.map",
+    "static/js/2.3fe9d014.chunk.js": "/Meerwaan/MonSite/static/js/2.3fe9d014.chunk.js",
+    "static/js/2.3fe9d014.chunk.js.map": "/Meerwaan/MonSite/static/js/2.3fe9d014.chunk.js.map",
+    "static/js/3.29200bc3.chunk.js": "/Meerwaan/MonSite/static/js/3.29200bc3.chunk.js",
+    "static/js/3.29200bc3.chunk.js.map": "/Meerwaan/MonSite/static/js/3.29200bc3.chunk.js.map",
+    "index.html": "/Meerwaan/MonSite/index.html",
+    "static/css/main.0bbee7a6.chunk.css.map": "/Meerwaan/MonSite/static/css/main.0bbee7a6.chunk.css.map",
+    "static/js/2.3fe9d014.chunk.js.LICENSE.txt": "/Meerwaan/MonSite/static/js/2.3fe9d014.chunk.js.LICENSE.txt",
+    "static/media/forumFacto.07a3a539.png": "/Meerwaan/MonSite/static/media/forumFacto.07a3a539.png",
+    "static/media/gitlab-tile.dd7027eb.svg": "/Meerwaan/MonSite/static/media/gitlab-tile.dd7027eb.svg",
+    "static/media/pokedex2.fa3e191e.png": "/Meerwaan/MonSite/static/media/pokedex2.fa3e191e.png",
+    "static/media/profil.f369b3b3.png": "/Meerwaan/MonSite/static/media/profil.f369b3b3.png",
+    "static/media/r2d3.bcadcd43.webp": "/Meerwaan/MonSite/static/media/r2d3.bcadcd43.webp",
+    "static/media/todolist.9b3d52ca.png": "/Meerwaan/MonSite/static/media/todolist.9b3d52ca.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff8a6d17.js",
+    "static/js/2.3fe9d014.chunk.js",
+    "static/css/main.0bbee7a6.chunk.css",
+    "static/js/main.dd7c3d62.chunk.js"
+  ]
+}
